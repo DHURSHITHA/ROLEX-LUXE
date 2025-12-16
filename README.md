@@ -24,12 +24,6 @@ CSS3 – Styling and layout
 
 Responsive Design – Flexbox for product layout and hover effects
 
-Project Structure
-├── index.html       # Main web page
-├── style.css        # Styling for the page
-├── images/          # Folder containing product images (rolex-1.jpeg, rolex-2.jpeg, rolex-3.jpeg)
-└── README.md        # Project description
-
 Usage
 
 Open index.html in a web browser to view the webpage.
